@@ -1,0 +1,31 @@
+body{
+  font-family: 'Georgia','Arial','Open Sans',sans-serif;
+  color: #222;
+  text-align: left;
+  }
+  .card{
+    height:830px;
+    width: 310px;
+    border: 2px solid #E0DDDD;
+    box-shadow: 9px 9px 6px #CFCFCF;
+    padding: 15px;
+    letter-spacing: 0.05em;
+    line-height: 1.5em;
+  }
+  .second{
+    border: 2px solid #E0DDDD;
+    padding: 12px;
+    text-align: justify;
+    margin-top: 15px;
+  }
+  .image{
+border:2px solid;
+margin-top: 10px;
+  }
+  .list{
+    list-style: none;
+    padding-left: 0px;
+  }
+  .fact{
+    font-style: italic;
+  }
